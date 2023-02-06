@@ -1,16 +1,14 @@
 # 🐢
 
 <!--
-**nokhub/nokhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🐒 https://emojipedia.org/monkey/  
+- 🐢 https://emojipedia.org/turtle/  
+- 🐈‍⬛ https://emojipedia.org/black-cat/  
+- 🐿️ https://emojipedia.org/chipmunk/  
+- 🐊 https://emojipedia.org/crocodile/  
+- 🐉 https://emojipedia.org/dragon/  
+- 🦭 https://emojipedia.org/seal/  
+- 🧸 https://emojipedia.org/teddy-bear/  
+- 🐑 https://emojipedia.org/ewe/  
+- 🐘 https://emojipedia.org/elephant/  
 -->
